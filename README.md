@@ -12,6 +12,14 @@ We're looking at big questions like what things make heart problems more likely,
 
 Our main goal is to extract actionable insights from this wealth of data. We want to make plans that focus on specific things to help reduce differences in heart health and make everyone's heart healthier in the adult population.
 
+## Tools used:
+Programming Language: Python
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- ChatGPT and Other AI tools for enhancing the workflow.
+
 
 ## Key Insights:
 Here are some important key findings of the whole analysis.
